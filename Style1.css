@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin:0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.about{
+     text-align: center;
+     color: white;
+     background-color:purple ;
+     padding: 10px;
+    
+}
+
+.skills{
+    text-align: center;
+    color:purple;
+    padding: 15px;
+    position:relative;
+}
+
+
+.form-group{
+    text-align: center;
+    color: purple;
+}
+
+input{
+
+    width:300px;
+    height:35px;
+    border-radius:3px;
+}
+
+input::placeholder{
+    padding-left: 5px;
+}
+
+textarea {
+    border-radius: 5px;
+    width:300px;
+    border:50px;
+    background-color: purple;
+}
+
+.btn{
+    width:300px;
+    color:white;
+    background-color: purple;
+    padding:10px;
+    margin:10px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 60px;
+}
+
+
+footer{
+    text-align: center;
+    color:white;
+    background-color: purple;
+    padding: 10px;
+}
